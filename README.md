@@ -16,3 +16,8 @@ You will need to modify line 41 for an identifier in your CSV, in my case _sku r
 
 On line 47 you will need to change/add the post_meta you require and as above reference the correct row in the CSV
 
+
+To activate the script you will need to got to the url on your website where the file is ie. www.mysite.com/runme.php
+
+You may also be able to run the php file via SSH if you encounter problems with large CSV's
+
